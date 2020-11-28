@@ -1,3 +1,5 @@
 aa.cpp
 *.o
 *.out
+
+.DS_Store
